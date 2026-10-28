@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="figurAbstClass/figurAbstClass.vcxproj" Id="cbddc789-f60a-415e-9150-0c96ffd749f6" />
+</Solution>
